@@ -1,5 +1,9 @@
 ## Hello! 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-HP&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkwjt001)](https://solved.ac/dkwjt001/)
+
+
 
 ## 💻 Tech Stack
 <span><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/><span/>
@@ -11,3 +15,9 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+
+
+
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dkwjt001@gmail.com)](mailto:dkwjt001@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dkwjt001@naver.com)](mailto:dkwjt001@naver.com)
