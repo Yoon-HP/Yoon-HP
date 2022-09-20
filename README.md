@@ -1,9 +1,5 @@
 ## Hello! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-HP&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-HP&show_icons=true&theme=radical)
-
-
 
 
 
